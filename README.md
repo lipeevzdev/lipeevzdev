@@ -5,12 +5,12 @@
 ---
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lipeevz&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0f0f0f" alt="GitHub Stats" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lipeevzdev&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0f0f0f" alt="GitHub Stats" /> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvatweaks1&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0f0f0f" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lipeevz&bg_color=0f0f0f&color=ffffff&line=c9d1d9&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lipeevzdev&bg_color=0f0f0f&color=ffffff&line=c9d1d9&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
